@@ -30,7 +30,7 @@ I am a data science student currently pursuing master's at Pace University.
 
 ## Competitions/Leadership: 🥇 ✨
 
-### **"A Byte of Food", Morgan Stanley Hackathon – "Code to Give" | April 2023**
+### **WON the Morgan Stanley Hackathon – "Code to Give" | April 2023**
 
 - Led a winning team in creating a data-driven solution for Atlanta Community Food Bank, optimizing workflows.
 - Certificate : https://www.linkedin.com/feed/update/urn:li:activity:7058062389019045888/
