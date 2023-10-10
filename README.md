@@ -2,7 +2,7 @@
 
 I am a data science student currently pursuing master's at Pace University. 
 
-![Profile Views](https://img.shields.io/github/profile-views/AnushaG-P?color=blueviolet&style=flat-square)
+![Profile Views](https://img.shields.io/github/followers/AnushaG-P?label=Profile+Views&style=social)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anusha-guruprasad/)    
