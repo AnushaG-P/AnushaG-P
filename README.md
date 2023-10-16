@@ -2,7 +2,7 @@
 
 I am a data science student currently pursuing master's at Pace University. 
 
-![](https://komarev.com/ghpvc/?username=AnushaG-P&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AnushaG-P&color=blueviolet&style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anusha-guruprasad/)    
 
