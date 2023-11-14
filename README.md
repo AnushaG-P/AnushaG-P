@@ -26,6 +26,7 @@ I am a data science student currently pursuing master's at Pace University.
 * **Galaxy Classification using Neural Networks** : https://github.com/AnushaG-P/Galaxy-Classification-ANN
 * **Tableau & R Projects** : https://github.com/AnushaG-P/R-Tableau-Analystics-Project/tree/main
 * **Big Data Project using Python** : https://github.com/AnushaG-P/Book_Keeping/blob/main/
+* **Genetic Testing to detect disorders** : https://github.com/AnushaG-P/Genetic-Testing
 
 ## Competitions/Leadership: 🥇 ✨
 
