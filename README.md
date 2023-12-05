@@ -27,7 +27,7 @@ I am a data science student currently pursuing master's at Pace University.
 * **Tableau & R Projects** : https://github.com/AnushaG-P/R-Tableau-Analystics-Project/tree/main
 * **Big Data Project using Python** : https://github.com/AnushaG-P/Book_Keeping/blob/main/
 * **Genetic Testing to detect disorders** : https://github.com/AnushaG-P/Genetic-Testing
-* **Transforming Taxi Transit with Data-Driven Solutions** : https://github.com/AnushaG-P/Transforming-Taxi-Transit-with-Data-Driven-Solutions/tree/main
+* **Transforming Taxi Transit with Data-Driven Solutions** : https://github.com/AnushaG-P/Transforming-Taxi-Transit-with-Data-Driven-Solutions
 
 ## Competitions/Leadership: 🥇 ✨
 
