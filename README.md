@@ -18,17 +18,18 @@ I am a data science student currently pursuing master's at Pace University.
 
 ## Projects  📊 
 
-* **Customer Churn** : https://github.com/AnushaG-P/Customer_Churn
-* **Real Estate** : https://github.com/AnushaG-P/CaliforniaHousing
-* **Time Series Analysis** : https://github.com/AnushaG-P/Time_Series_Analysis_On_Electrical_Consumption
-* **Deep-Learning Pattern Recognition** : https://github.com/AnushaG-P/Tiger-Detection-and-SIFT
-* **MATLAB Projects** : https://github.com/AnushaG-P/MATLAB-Projects
-* **Galaxy Classification using Neural Networks** : https://github.com/AnushaG-P/Galaxy-Classification-ANN
-* **Tableau & R Projects** : https://github.com/AnushaG-P/R-Tableau-Analystics-Project/tree/main
-* **Big Data Project using Python** : https://github.com/AnushaG-P/Book_Keeping/blob/main/
-* **Genetic Testing to detect disorders** : https://github.com/AnushaG-P/Genetic-Testing
-* **Transforming Taxi Transit with Data-Driven Solutions** : https://github.com/AnushaG-P/Transforming-Taxi-Transit-with-Data-Driven-Solutions
-* **Hand Joint Detection - Computer Vision** : https://github.com/AnushaG-P/hand_joint_detection_CV_Deep-Learning
+* [**Capstone Project -  Impact-of-Generative-AI-on-Personalized-Drug-Treatments-for-Pre-existing-Conditions**](https://github.com/AnushaG-P/Impact-of-Generative-AI-on-Personalized-Drug-Treatments-for-Pre-existing-Conditions/tree/main)
+* [**Customer Churn**](https://github.com/AnushaG-P/Customer_Churn)
+* [**Real Estate**](https://github.com/AnushaG-P/CaliforniaHousing)
+* [**Time Series Analysis**](https://github.com/AnushaG-P/Time_Series_Analysis_On_Electrical_Consumption)
+* [**Deep-Learning Pattern Recognition**](https://github.com/AnushaG-P/Tiger-Detection-and-SIFT)
+* [**MATLAB Projects**](https://github.com/AnushaG-P/MATLAB-Projects)
+* [**Galaxy Classification using Neural Networks**](https://github.com/AnushaG-P/Galaxy-Classification-ANN)
+* [**Tableau & R Projects**](https://github.com/AnushaG-P/R-Tableau-Analystics-Project/tree/main)
+* [**Big Data Project using Python**](https://github.com/AnushaG-P/Book_Keeping/blob/main/)
+* [**Genetic Testing to detect disorders**](https://github.com/AnushaG-P/Genetic-Testing)
+* [**Transforming Taxi Transit with Data-Driven Solutions**](https://github.com/AnushaG-P/Transforming-Taxi-Transit-with-Data-Driven-Solutions)
+* [**Hand Joint Detection - Computer Vision**](https://github.com/AnushaG-P/hand_joint_detection_CV_Deep-Learning)
 
 ## Competitions/Leadership: 🥇 ✨
 
