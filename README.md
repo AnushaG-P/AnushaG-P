@@ -1,6 +1,12 @@
-# Hi there ! 👩🏻‍💻 👋🏻
+# Hi There ! 👩🏻‍💻 👋🏻
 
-I'm a Data Scientist with an MS in Data Science from Pace University and 4+ years of experience building AI-driven solutions across finance, healthcare, and logistics.
+I'm an AWS Certified Data Scientist with an MS in Data Science from Pace University and 4+ years of experience building AI-driven solutions across finance, healthcare, and logistics.
+
+## 🎓AWS Certification:
+
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-orange?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/07d6bcdc-01d8-42f0-9341-3c50900f5d8b/public_url)
+
+[**View my AWS Certified AI Practitioner credential**](https://www.credly.com/badges/07d6bcdc-01d8-42f0-9341-3c50900f5d8b/public_url)
 
 
 ## 🌐 Socials:
@@ -26,23 +32,30 @@ I'm a Data Scientist with an MS in Data Science from Pace University and 4+ year
 ## Projects  📊 
 
 * [**Capstone Project -  Impact-of-Generative-AI-on-Personalized-Drug-Treatments-for-Pre-existing-Conditions**](https://github.com/AnushaG-P/Impact-of-Generative-AI-on-Personalized-Drug-Treatments-for-Pre-existing-Conditions/tree/main)
-* [**Customer Churn**](https://github.com/AnushaG-P/Customer_Churn)
-* [**Real Estate**](https://github.com/AnushaG-P/CaliforniaHousing)
-* [**Time Series Analysis**](https://github.com/AnushaG-P/Time_Series_Analysis_On_Electrical_Consumption)
+* [**Customer Churn on Telecom Industry**](https://github.com/AnushaG-P/Customer_Churn)
+* [**Real Estate Analysis**](https://github.com/AnushaG-P/CaliforniaHousing)
+* [**Time Series Analysis on Electrical_Consumption**](https://github.com/AnushaG-P/Time_Series_Analysis_On_Electrical_Consumption)
 * [**Deep-Learning Pattern Recognition**](https://github.com/AnushaG-P/Tiger-Detection-and-SIFT)
 * [**MATLAB Projects**](https://github.com/AnushaG-P/MATLAB-Projects)
 * [**Galaxy Classification using Neural Networks**](https://github.com/AnushaG-P/Galaxy-Classification-ANN)
-* [**Tableau & R Projects**](https://github.com/AnushaG-P/R-Tableau-Analystics-Project/tree/main)
-* [**Big Data Project using Python**](https://github.com/AnushaG-P/Book_Keeping/blob/main/)
-* [**Genetic Testing to detect disorders**](https://github.com/AnushaG-P/Genetic-Testing)
+* [**Tableau & R Projects on Marketing Funnel Analysis**](https://github.com/AnushaG-P/R-Tableau-Analystics-Project/tree/main)
+* [**Big Data Analysis using Python and SQL**](https://github.com/AnushaG-P/Book_Keeping/blob/main/)
+* [**Genetic Testing to detect disorders - Multimodal Analysis**](https://github.com/AnushaG-P/Genetic-Testing)
 * [**Transforming Taxi Transit with Data-Driven Solutions**](https://github.com/AnushaG-P/Transforming-Taxi-Transit-with-Data-Driven-Solutions)
 * [**Hand Joint Detection - Computer Vision**](https://github.com/AnushaG-P/hand_joint_detection_CV_Deep-Learning)
 
-## Competitions/Leadership: 🥇 ✨
+## Publications & Certifications: 🥇 ✨
+
+### **PUBLICATION**
+Role : Research Assistant
+
+- Microbes and Metabolites of Tetrastigma (SSRN) — Applied data science to analyze metabolomic interactions; achieved 92% model accuracy across 10K+ datasets.
+- Publication Link : https://www.sciencedirect.com/science/article/pii/S2214662825000246
 
 ### **WON the Morgan Stanley Hackathon – "Code to Give" | April 2023**
 
 - Led a winning team in creating a data-driven solution for Atlanta Community Food Bank, optimizing workflows.
+- Developed a neural network platform for food redistribution, reducing waste by 40% and optimizing deliveries using real-time stock data, powered by MongoDB.
 - Certificate : https://www.linkedin.com/feed/update/urn:li:activity:7058062389019045888/
 
 ### **Data Science Club – Pace University | January 2023**
